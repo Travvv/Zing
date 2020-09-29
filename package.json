@@ -1,0 +1,26 @@
+{
+  "name": "zing",
+  "version": "0.0.1",
+  "description": "A discord bot I develop during my online classes.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Travvv/Zing.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Travvv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Travvv/Zing/issues"
+  },
+  "homepage": "https://github.com/Travvv/Zing#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.3.1"
+  }
+}
