@@ -2,9 +2,9 @@
   "name": "zing",
   "version": "0.0.1",
   "description": "A discord bot I develop during my online classes.",
-  "main": "bot.js",
+  "main": "index.js",
   "scripts": {
-    "test": "node bot.js"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
